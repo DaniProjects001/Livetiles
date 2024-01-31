@@ -1,0 +1,662 @@
+[
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Find",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Find a person or team",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Resources",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Find a location or meeting room",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Support (Employee Assist Program)",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Self serve",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Report a safety issue (RiskWare)",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Log a service request (ServiceHub)",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Check leave and pay (MyAurion)",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Get a Staff ID",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Complete learning (LearningHub)",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Book a service at Town Hall",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Understand",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Common terms (Glossary)",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Understand how we work",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Stay Connected / Get updates",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "News and Events",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "Team posts - Viva Engage/Yammer",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "I want to",
+    "Level 2": "People announcements",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "About us <Learn about CoM>",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Vision and values ",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Our culture",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Council Plan, Corporate Strategy and Community Vision ",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Reconilication Action Plan",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Organisational structure ",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Executive Leadership Team ",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Lord Mayor and Councillors",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Code of Conduct",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Diversity, equity and inclusion",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Pride",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Gender Equality ",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "About us",
+    "Level 2": "Equal opportunity",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "About us <Learn about CoM>",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Understand a term (Glossary)",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "New starters",
+    "Level 3": "Induction"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "New starters",
+    "Level 3": "Getting started"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "New starters",
+    "Level 3": "Employee discounts - CoMmunity"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "New starters",
+    "Level 3": "Get a staff ID"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "New starters",
+    "Level 3": "Set up your email signature"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "New starters",
+    "Level 3": "Onboarding"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "New starters",
+    "Level 3": "Service Hub"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Pay, leave and benefits",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Pay, leave and benefits",
+    "Level 3": "Check pay and leave balances - MyAurion"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Pay, leave and benefits",
+    "Level 3": "Flexible work"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Pay, leave and benefits",
+    "Level 3": "Family and domestic violence leave"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Pay, leave and benefits",
+    "Level 3": "Employee benefits (CoMUnity)"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Pay, leave and benefits",
+    "Level 3": "Enterprise Agreement"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Pay, leave and benefits",
+    "Level 3": "Employee unions"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": "My performance"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": "Goals and Performance Appraisals"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": "Goal setting"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": "Recognition"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": "Learning and development "
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": "Learning Hub"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": "MindTools "
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": "Leadership Development Program "
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Performance, learning and development",
+    "Level 3": "Mentoring at CoM"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Report a Safety Incident (RiskWare)"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Personal health and wellbeing"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Employee Assist Program "
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Peer support officers"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Health and Safety Representatives"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Injury management and return to work"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Pride"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "What to do in an emergency"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Fire wardens"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Contractor and visitor safety"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Safety and wellbeing",
+    "Level 3": "Managing safety risks"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Diversity, equity and inclusion",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Pride",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Gender Equality ",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Equal opportunity",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Recruitment",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Recruitment",
+    "Level 3": "eRecruit"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Recruitment",
+    "Level 3": "Recruitment process"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Recruitment",
+    "Level 3": "Onboarding"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Recruitment",
+    "Level 3": "Probation checklist"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Recruitment",
+    "Level 3": "Offboarding"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Recruitment",
+    "Level 3": "Agency recruitment"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Career opportunities",
+    "Level 3": "Jobs and secondments"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Career opportunities",
+    "Level 3": "Volunteering"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Career opportunities",
+    "Level 3": "Student placements"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Facilities",
+    "Level 3": "Our locations"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Facilities",
+    "Level 3": "Meeting rooms"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Facilities",
+    "Level 3": "Bike storage, lockers and end-of-trip"
+  },
+  {
+    "Level 1 ": "Working at CoM",
+    "Level 2": "Facilities",
+    "Level 3": "Parenting, prayer and quiet rooms"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "City Economy and Activation",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "City Economy and Activation",
+    "Level 3": "Creative City"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "City Economy and Activation",
+    "Level 3": "Economic Development and International"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "City Economy and Activation",
+    "Level 3": "Experience Melbourne"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "City Economy and Activation",
+    "Level 3": "Invest Melbourne"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Community and City Services",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Community and City Services",
+    "Level 3": "Community Development"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Community and City Services",
+    "Level 3": "Community Wellbeing"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Community and City Services",
+    "Level 3": "City Safety, Security and Amenity"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Community and City Services",
+    "Level 3": "Homes Melbourne"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Community and City Services",
+    "Level 3": "Parking Services"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Community and City Services",
+    "Level 3": "Recreation and Waterways"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Executive services",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Executive services",
+    "Level 3": "Aboriginal Melbourne"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Executive services",
+    "Level 3": "Governance"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Executive services",
+    "Level 3": "Office of the CEO"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Executive services",
+    "Level 3": "Office of the Lord Mayor and Deputy Lord Mayor"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Executive services",
+    "Level 3": "People, Culture and Leadership"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Executive services",
+    "Level 3": "Strategic Communications"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Finance and Corporate Services",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Finance and Corporate Services",
+    "Level 3": "CityLab"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Finance and Corporate Services",
+    "Level 3": "Customer Relations"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Finance and Corporate Services",
+    "Level 3": "Finance, Rates and Investment"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Finance and Corporate Services",
+    "Level 3": "Legal  "
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Finance and Corporate Services",
+    "Level 3": "Procurement and Contract Management "
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Finance and Corporate Services",
+    "Level 3": "Technology, Innovation and Data"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Technology, Innovation and Data",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Technology, Innovation and Data",
+    "Level 3": "Technology Digital and Innovation "
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Technology, Innovation and Data",
+    "Level 3": "City Data "
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Technology, Innovation and Data",
+    "Level 3": "Smart City incubator "
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Property Infrastructure and Design",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Property Infrastructure and Design",
+    "Level 3": "City Design"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Property Infrastructure and Design",
+    "Level 3": "City Infrastructure"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Property Infrastructure and Design",
+    "Level 3": "City Property"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Property Infrastructure and Design",
+    "Level 3": "City Projects"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Property Infrastructure and Design",
+    "Level 3": "Greenline Project"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Property Infrastructure and Design",
+    "Level 3": "City Analytics"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Property Infrastructure and Design",
+    "Level 3": "City Data"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Strategy, Planning and Climate Change",
+    "Level 3": null
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Strategy, Planning and Climate Change",
+    "Level 3": "City Strategy"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Strategy, Planning and Climate Change",
+    "Level 3": "Climte Change and City Resilience"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Strategy, Planning and Climate Change",
+    "Level 3": "Parks and City Greening"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Strategy, Planning and Climate Change",
+    "Level 3": "Planning and Building"
+  },
+  {
+    "Level 1 ": "Browse by division",
+    "Level 2": "Strategy, Planning and Climate Change",
+    "Level 3": "Waste and Recycling"
+  }
+]
